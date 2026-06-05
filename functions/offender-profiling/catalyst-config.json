@@ -1,0 +1,7 @@
+{
+  "function_name": "offender-profiling",
+  "runtime": "nodejs18.x",
+  "memory": 256,
+  "timeout": 30,
+  "type": "Advanced IO"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "crime-chat",
+  "version": "1.0.0",
+  "description": "Conversational AI for KSP crime database",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "zcatalyst-sdk-node": "*",
+    "axios": "^1.6.0",
+    "cors": "^2.8.5"
+  }
+}

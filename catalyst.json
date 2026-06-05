@@ -1,0 +1,18 @@
+{
+  "functions": {
+    "source": "functions",
+    "targets": [
+      "crime-chat",
+      "crime-analytics",
+      "network-analysis",
+      "offender-profiling",
+      "forecasting",
+      "pdf-export",
+      "voice-handler",
+      "auth-middleware"
+    ]
+  },
+  "client": {
+    "source": "client/dist"
+  }
+}

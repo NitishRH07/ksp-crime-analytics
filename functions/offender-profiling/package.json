@@ -1,0 +1,10 @@
+{
+  "name": "offender-profiling",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "zcatalyst-sdk-node": "*",
+    "cors": "^2.8.5"
+  }
+}
